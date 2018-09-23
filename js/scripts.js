@@ -7,6 +7,9 @@ $(document).ready(function() {
     var space = parseInt($("#space").val());
     var total = dishwasher + food + outfit + drink + space;
 
+  $("form").fadeOut("slow", function() {
+  });
+
     if (total < 16) {
       $('#netflix').show();
     } else if (total >= 16 && total < 31) {
