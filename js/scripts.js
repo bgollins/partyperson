@@ -7,7 +7,7 @@ $(document).ready(function() {
     var space = parseInt($("#space").val());
     var total = dishwasher + food + outfit + drink + space;
 
-  $("form").fadeOut("slow", function() {
+  $("form").fadeOut("", function() {
   });
 
     if (total < 16) {
