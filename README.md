@@ -10,7 +10,7 @@ _This simple webpage uses the form feature of bootstrap to create a "quiz" for t
 
 ## Setup/Installation Requirements
 
-* _Clone the project to your desktop_
+* _Clone the project to your desktop at https://github.com/brittanygollins/partyperson_
 * _Open the index.html file in your web browser_
 * _Answer the questions_
 * _Learn what type of party you should host (with some sass)!_
